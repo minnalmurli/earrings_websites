@@ -133,11 +133,17 @@ body.dark-theme {
     Color changes in some parts of 
     the website, in dark theme 
 ==========*/
-.dark-theme .change-theme,
+/* .dark-theme .change-theme,
 .dark-theme .nav__toggle,
 .dark-theme .nav__shop,
 .dark-theme .button--gray {
   color: hsl(0, 0%, 15%);
+} */
+.dark-theme .change-theme,
+.dark-theme .nav__toggle,
+.dark-theme .nav__shop,
+.dark-theme .button--gray {
+  color: hsl(0, 0%, 95%);
 }
 
 .dark-theme .scroll-header {
@@ -309,6 +315,7 @@ body.dark-theme {
 
 .home__img {
   width: 240px;
+  border-radius: 12px;
 }
 
 .home__img-bg {
@@ -320,7 +327,7 @@ body.dark-theme {
   justify-content: center;
   align-items: flex-end;
   justify-self: flex-end;
-  transform: translateX(1.5rem);
+  transform: translateY(1.8rem);
 }
 
 .home__social {
