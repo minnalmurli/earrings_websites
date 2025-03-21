@@ -1,10 +1,8 @@
-**Earring Selling Website**
-
-**Overview**
+# Earring Selling Website
 
 This is a responsive static website for selling earrings. The website is designed using HTML and CSS to provide an elegant and user-friendly interface for showcasing and selling different types of earrings.
 
-**Features**
+# Features
 
 Homepage: A visually appealing landing page displaying featured earrings.
 
