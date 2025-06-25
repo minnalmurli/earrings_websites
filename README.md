@@ -22,3 +22,5 @@ CSS: Styling and making the website visually attractive.
 
 Media Queries: Ensuring responsiveness on different devices.
 
+**Click to go**
+https://earings-site.netlify.app/
